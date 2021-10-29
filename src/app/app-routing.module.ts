@@ -12,8 +12,28 @@ const routes: Routes = [
     loadChildren: () => import('./folder/folder.module').then( m => m.FolderPageModule)
   },
   {
-    path: 'database',
-    loadChildren: () => import('./database/database.module').then( m => m.DatabasePageModule)
+    path: 'home',
+    loadChildren: () => import('./pages/home/home.module').then( m => m.HomePageModule)
+  },
+  {
+    path: 'e404',
+    loadChildren: () => import('./pages/e404/e404.module').then( m => m.E404PageModule)
+  },
+  {
+    path: 'salgadas',
+    loadChildren: () => import('./pages/salgadas/salgadas.module').then( m => m.SalgadasPageModule)
+  },
+  {
+    path: 'doces',
+    loadChildren: () => import('./pages/doces/doces.module').then( m => m.DocesPageModule)
+  },
+  {
+    path: 'dicas',
+    loadChildren: () => import('./pages/dicas/dicas.module').then( m => m.DicasPageModule)
+  },
+  {
+    path: 'bebidas',
+    loadChildren: () => import('./pages/bebidas/bebidas.module').then( m => m.BebidasPageModule)
   }
 ];
 

@@ -1,0 +1,44 @@
+{
+  "promocoes": [
+    {
+      "status": "true",
+      "title": "iPhone 11 Apple (64GB) Preto Tela 6,1\" 4G Câmera 12MP iOS",
+      "cover": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg",
+      "description": "Grave vídeos 4K, faça belos retratos e capture paisagens inteiras com o novo sistema de câmera dupla. Tire fotos incríveis com pouca luz usando o modo Noite. Veja cores fiéis em fotos, vídeos e jogos na tela. Liquid Retina de 6,1 po",
+      "preco": "R$ 3.999,00",
+      "link": "https://empresas.americanas.com.br/produto/1611315933/iphone-11-apple-64gb-preto-tela-6-1-4g-camera-12mp-ios-1?chave=hmem_vitrine_frete18_0106#info-section",
+      "uid": "u4vjof96IZVT1q2VnEgGSGJH0Xj2",
+      "id": 1
+    },
+    {
+      "status": "true",
+      "title": "Notebook Vaio FE14 VJFE43F11X-B0542H Intel Core i5-1035G1 8GB 256GB SSD FHD Linux 14\" - Chumbo Escuro",
+      "cover": "https://images-americanas.b2w.io/produtos/01/00/img/3046164/7/3046164730_1SZ.jpg",
+      "description": "Design leve, produto compacto o VAIO FE14 possui uma tela de alta resolução com moldura reduzida, ou seja, reduzimos o tamanho das bordas laterais do produto mantendo a tela de 14 polegadas.Mais fino (apenas 19,8 mm de espessura). M...\n",
+      "preco": "R$ 3.372,49",
+      "link": "https://empresas.americanas.com.br/produto/3046164641/notebook-vaio-fe14-vjfe43f11x-b0542h-intel-core-i5-1035g1-8gb-256gb-ssd-fhd-linux-14-chumbo-escuro?chave=hmem_vitrine_frete20_0106&cor=CHUMBO&voltagem=BIVOLT",
+      "uid": "u4vjof96IZVT1q2VnEgGSGJH0Xj2",
+      "id": 2
+    },
+    {
+      "status": null,
+      "title": "Guarda Roupas Solteiro com 4 Portas Chile Nature / Branco",
+      "cover": "https://picsum.photos/200",
+      "description": "Testando produtos teste teste",
+      "preco": "R$ 399,00",
+      "link": "https://picsum.photos/",
+      "uid": null,
+      "id": 3
+    },
+    {
+      "status": "true",
+      "title": "Tênis Nike Downshifter 11 Masculino - Preto+Branco",
+      "cover": "https://static.netshoes.com.br/produtos/tenis-nike-downshifter-11-masculino/26/HZM-5208-026/HZM-5208-026_zoom1.jpg?ts=1620698712&",
+      "description": "O Tênis Nike Downshifter 11 Masculino é o seu novo tênis de corrida favorito! O modelo apresenta cabedal em malha de tramas abertas que auxiliam na flexibilidade e na ventilação interna, que afasta o mau odor. A palmilha macia fornece conforto durante as passadas, enquanto o solado emborrachado garante aderência e tração. A entressola com espuma macia proporciona suporte enquanto você foca no treino. Por fim, o design moderno da peça dá o tom do visual.",
+      "preco": "R$ 229,99",
+      "link": "https://www.netshoes.com.br/tenis-nike-downshifter-11-masculino-preto+branco-HZM-5208-026",
+      "uid": "u4vjof96IZVT1q2VnEgGSGJH0Xj2",
+      "id": 4
+    }
+  ]
+}

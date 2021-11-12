@@ -19,26 +19,7 @@
       "link": "https://empresas.americanas.com.br/produto/3046164641/notebook-vaio-fe14-vjfe43f11x-b0542h-intel-core-i5-1035g1-8gb-256gb-ssd-fhd-linux-14-chumbo-escuro?chave=hmem_vitrine_frete20_0106&cor=CHUMBO&voltagem=BIVOLT",
       "uid": "u4vjof96IZVT1q2VnEgGSGJH0Xj2",
       "id": 2
-    },
-    {
-      "status": null,
-      "title": "Guarda Roupas Solteiro com 4 Portas Chile Nature / Branco",
-      "cover": "https://picsum.photos/200",
-      "description": "Testando produtos teste teste",
-      "preco": "R$ 399,00",
-      "link": "https://picsum.photos/",
-      "uid": null,
-      "id": 3
-    },
-    {
-      "status": "true",
-      "title": "Tênis Nike Downshifter 11 Masculino - Preto+Branco",
-      "cover": "https://static.netshoes.com.br/produtos/tenis-nike-downshifter-11-masculino/26/HZM-5208-026/HZM-5208-026_zoom1.jpg?ts=1620698712&",
-      "description": "O Tênis Nike Downshifter 11 Masculino é o seu novo tênis de corrida favorito! O modelo apresenta cabedal em malha de tramas abertas que auxiliam na flexibilidade e na ventilação interna, que afasta o mau odor. A palmilha macia fornece conforto durante as passadas, enquanto o solado emborrachado garante aderência e tração. A entressola com espuma macia proporciona suporte enquanto você foca no treino. Por fim, o design moderno da peça dá o tom do visual.",
-      "preco": "R$ 229,99",
-      "link": "https://www.netshoes.com.br/tenis-nike-downshifter-11-masculino-preto+branco-HZM-5208-026",
-      "uid": "u4vjof96IZVT1q2VnEgGSGJH0Xj2",
-      "id": 4
     }
+  
   ]
 }

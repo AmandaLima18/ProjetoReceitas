@@ -16,10 +16,6 @@ const routes: Routes = [
     loadChildren: () => import('./pages/home/home.module').then( m => m.HomePageModule)
   },
   {
-    path: 'e404',
-    loadChildren: () => import('./pages/e404/e404.module').then( m => m.E404PageModule)
-  },
-  {
     path: 'salgadas',
     loadChildren: () => import('./pages/salgadas/salgadas.module').then( m => m.SalgadasPageModule)
   },
@@ -34,6 +30,10 @@ const routes: Routes = [
   {
     path: 'bebidas',
     loadChildren: () => import('./pages/bebidas/bebidas.module').then( m => m.BebidasPageModule)
+  },
+  {
+    path: '**',
+    loadChildren: () => import('./pages/e404/e404.module').then( m => m.E404PageModule)
   }
 ];
 
